@@ -1,0 +1,310 @@
+@font-face {
+  font-family: 'TLG-Icons';
+  src:  url('fonts/TLG-Icons.eot?q3gc7b');
+  src:  url('fonts/TLG-Icons.eot?q3gc7b#iefix') format('embedded-opentype'),
+    url('fonts/TLG-Icons.ttf?q3gc7b') format('truetype'),
+    url('fonts/TLG-Icons.woff?q3gc7b') format('woff'),
+    url('fonts/TLG-Icons.svg?q3gc7b#TLG-Icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i[class^="tlgi-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'TLG-Icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.tlgi-alert:before {
+  content: "\e900";
+    opacity: 0.2;
+}
+.tlgi-alert:after {
+  content: "\e901";
+  margin-left: -1em;
+  }
+.tlgi-alerts:before {
+  content: "\e902";
+  }
+.tlgi-arrow-link:before {
+  content: "\e903";
+  }
+.tlgi-arrow:before {
+  content: "\e904";
+  }
+.tlgi-bell:before {
+  content: "\e905";
+  }
+.tlgi-billing:before {
+  content: "\e906";
+  }
+.tlgi-bin:before {
+  content: "\e907";
+  }
+.tlgi-burger:before {
+  content: "\e908";
+  }
+.tlgi-calendar:before {
+  content: "\e909";
+  }
+.tlgi-call:before {
+  content: "\e90a";
+  }
+.tlgi-camera:before {
+  content: "\e90b";
+  }
+.tlgi-check-circle:before {
+  content: "\e90c";
+    opacity: 0.2;
+}
+.tlgi-check-circle:after {
+  content: "\e90d";
+  margin-left: -1em;
+  }
+.tlgi-check:before {
+  content: "\e90e";
+  }
+.tlgi-chevron-down:before {
+  content: "\e90f";
+}
+.tlgi-chevron-left:before {
+  content: "\e910";
+}
+.tlgi-chevron-right:before {
+  content: "\e911";
+}
+.tlgi-chevron-up:before {
+  content: "\e912";
+}
+.tlgi-clock-in-out:before {
+  content: "\e913";
+  }
+.tlgi-clock-in-out:after {
+  content: "\e914";
+  margin-left: -1em;
+  }
+.tlgi-clock:before {
+  content: "\e915";
+  }
+.tlgi-close:before {
+  content: "\e916";
+    opacity: 0.2;
+}
+.tlgi-close:after {
+  content: "\e917";
+  margin-left: -1em;
+  }
+.tlgi-code:before {
+  content: "\e918";
+  }
+.tlgi-copy:before {
+  content: "\e919";
+  }
+.tlgi-crop:before {
+  content: "\e91a";
+  }
+.tlgi-custom-page:before {
+  content: "\e91b";
+  }
+.tlgi-danger:before {
+  content: "\e91c";
+    opacity: 0.2;
+}
+.tlgi-danger:after {
+  content: "\e91d";
+  margin-left: -1em;
+  }
+.tlgi-dashboard:before {
+  content: "\e91e";
+  }
+.tlgi-design:before {
+  content: "\e91f";
+  }
+.tlgi-diet-gluten-free:before {
+  content: "\e920";
+  }
+.tlgi-diet-hot:before {
+  content: "\e921";
+  }
+.tlgi-diet-mild:before {
+  content: "\e922";
+  }
+.tlgi-diet-organic:before {
+  content: "\e923";
+  }
+.tlgi-diet-vegan:before {
+  content: "\e924";
+  }
+.tlgi-diet-vegetarian:before {
+  content: "\e925";
+  }
+.tlgi-download:before {
+  content: "\e926";
+  }
+.tlgi-dynamic-outline:before {
+  content: "\e927";
+  }
+.tlgi-dynamic:before {
+  content: "\e928";
+  }
+.tlgi-edit:before {
+  content: "\e929";
+  }
+.tlgi-email-at:before {
+  content: "\e92a";
+  }
+.tlgi-email:before {
+  content: "\e92b";
+  }
+.tlgi-extra:before {
+  content: "\e92c";
+  }
+.tlgi-facebook:before {
+  content: "\e92d";
+  }
+.tlgi-filters:before {
+  content: "\e92e";
+  }
+.tlgi-google:before {
+  content: "\e92f";
+  }
+.tlgi-home-outline:before {
+  content: "\e930";
+  }
+.tlgi-home:before {
+  content: "\e931";
+  }
+.tlgi-image:before {
+  content: "\e932";
+  }
+.tlgi-images:before {
+  content: "\e933";
+  }
+.tlgi-instagram:before {
+  content: "\e934";
+  }
+.tlgi-key-outline:before {
+  content: "\e935";
+  }
+.tlgi-key:before {
+  content: "\e936";
+  }
+.tlgi-link:before {
+  content: "\e937";
+  }
+.tlgi-logout:before {
+  content: "\e938";
+  }
+.tlgi-map:before {
+  content: "\e939";
+  }
+.tlgi-megaphone:before {
+  content: "\e93a";
+  }
+.tlgi-menu:before {
+  content: "\e93b";
+  }
+.tlgi-more:before {
+  content: "\e93c";
+  }
+.tlgi-nfc-outline:before {
+  content: "\e93d";
+  }
+.tlgi-nfc:before {
+  content: "\e93e";
+  }
+.tlgi-null:before {
+  content: "\e93f";
+  }
+.tlgi-null:after {
+  content: "\e940";
+  margin-left: -1em;
+  }
+.tlgi-page:before {
+  content: "\e941";
+  }
+.tlgi-palette:before {
+  content: "\e942";
+  }
+.tlgi-payment-card:before {
+  content: "\e943";
+  }
+.tlgi-pdf:before {
+  content: "\e944";
+  }
+.tlgi-plus:before {
+  content: "\e945";
+  }
+.tlgi-pricing:before {
+  content: "\e946";
+  }
+.tlgi-print:before {
+  content: "\e947";
+  }
+.tlgi-qr-code-dynamic:before {
+  content: "\e948";
+  }
+.tlgi-qr-code-static:before {
+  content: "\e949";
+  }
+.tlgi-question-mark:before {
+  content: "\e94a";
+  }
+.tlgi-rsvp:before {
+  content: "\e94b";
+  }
+.tlgi-search:before {
+  content: "\e94c";
+  }
+.tlgi-settings-outline:before {
+  content: "\e94d";
+  }
+.tlgi-settings:before {
+  content: "\e94e";
+  }
+.tlgi-share:before {
+  content: "\e94f";
+  }
+.tlgi-silenced:before {
+  content: "\e950";
+  }
+.tlgi-smartphone:before {
+  content: "\e951";
+  }
+.tlgi-sms:before {
+  content: "\e952";
+  }
+.tlgi-stats:before {
+  content: "\e953";
+  }
+.tlgi-upload:before {
+  content: "\e954";
+  }
+.tlgi-url:before {
+  content: "\e955";
+  }
+.tlgi-user-outline:before {
+  content: "\e956";
+  }
+.tlgi-user:before {
+  content: "\e957";
+  }
+.tlgi-vcard:before {
+  content: "\e958";
+  }
+.tlgi-whatsapp:before {
+  content: "\e959";
+  }
+.tlgi-wifi:before {
+  content: "\e95a";
+  }
