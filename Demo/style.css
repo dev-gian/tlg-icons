@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'TLG-Icons';
-  src:  url('fonts/TLG-Icons.eot?q3gc7b');
-  src:  url('fonts/TLG-Icons.eot?q3gc7b#iefix') format('embedded-opentype'),
-    url('fonts/TLG-Icons.ttf?q3gc7b') format('truetype'),
-    url('fonts/TLG-Icons.woff?q3gc7b') format('woff'),
-    url('fonts/TLG-Icons.svg?q3gc7b#TLG-Icons') format('svg');
+  src:  url('fonts/TLG-Icons.eot?h3th5f');
+  src:  url('fonts/TLG-Icons.eot?h3th5f#iefix') format('embedded-opentype'),
+    url('fonts/TLG-Icons.ttf?h3th5f') format('truetype'),
+    url('fonts/TLG-Icons.woff?h3th5f') format('woff'),
+    url('fonts/TLG-Icons.svg?h3th5f#TLG-Icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -222,13 +222,6 @@ i[class^="tlgi-"] {
   }
 .tlgi-nfc:before {
   content: "\e93e";
-  }
-.tlgi-null:before {
-  content: "\e93f";
-  }
-.tlgi-null:after {
-  content: "\e940";
-  margin-left: -1em;
   }
 .tlgi-page:before {
   content: "\e941";

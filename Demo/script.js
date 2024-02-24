@@ -5,7 +5,6 @@ const copyToClipboard = e => { var o = document.createElement("input"); o.type =
 const onIconClick = (event) => {
   let icon = event.target.closest('i[class^="tlgi-"]');
   if (!icon) icon = event.target.querySelector('i[class^="tlgi-"]');
-  console.log(icon);
   copyToClipboard(icon.outerHTML);
   alert("Copied to clipboard!")
 };

@@ -507,27 +507,12 @@
           "tempChar": ""
         },
         {
-          "order": 412,
-          "id": 26,
-          "name": "null",
-          "prevSize": 32,
-          "code": 59711,
-          "codes": [
-            59711,
-            59712
-          ],
-          "tempChar": [
-            "",
-            ""
-          ]
-        },
-        {
           "order": 413,
           "id": 25,
           "name": "page",
           "prevSize": 32,
           "code": 59713,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 414,
@@ -535,7 +520,7 @@
           "name": "palette",
           "prevSize": 32,
           "code": 59714,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 415,
@@ -543,7 +528,7 @@
           "name": "payment-card",
           "prevSize": 32,
           "code": 59715,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 416,
@@ -551,7 +536,7 @@
           "name": "pdf",
           "prevSize": 32,
           "code": 59716,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 417,
@@ -559,7 +544,7 @@
           "name": "plus",
           "prevSize": 32,
           "code": 59717,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 418,
@@ -567,7 +552,7 @@
           "name": "pricing",
           "prevSize": 32,
           "code": 59718,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 419,
@@ -575,7 +560,7 @@
           "name": "print",
           "prevSize": 32,
           "code": 59719,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 420,
@@ -583,7 +568,7 @@
           "name": "qr-code-dynamic",
           "prevSize": 32,
           "code": 59720,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 421,
@@ -591,7 +576,7 @@
           "name": "qr-code-static",
           "prevSize": 32,
           "code": 59721,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 422,
@@ -599,7 +584,7 @@
           "name": "question-mark",
           "prevSize": 32,
           "code": 59722,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 423,
@@ -607,7 +592,7 @@
           "name": "rsvp",
           "prevSize": 32,
           "code": 59723,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 424,
@@ -615,7 +600,7 @@
           "name": "search",
           "prevSize": 32,
           "code": 59724,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 425,
@@ -623,7 +608,7 @@
           "name": "settings-outline",
           "prevSize": 32,
           "code": 59725,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 426,
@@ -631,7 +616,7 @@
           "name": "settings",
           "prevSize": 32,
           "code": 59726,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 427,
@@ -639,7 +624,7 @@
           "name": "share",
           "prevSize": 32,
           "code": 59727,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 428,
@@ -647,7 +632,7 @@
           "name": "silenced",
           "prevSize": 32,
           "code": 59728,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 429,
@@ -655,7 +640,7 @@
           "name": "smartphone",
           "prevSize": 32,
           "code": 59729,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 430,
@@ -663,7 +648,7 @@
           "name": "sms",
           "prevSize": 32,
           "code": 59730,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 431,
@@ -671,7 +656,7 @@
           "name": "stats",
           "prevSize": 32,
           "code": 59731,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 432,
@@ -679,7 +664,7 @@
           "name": "upload",
           "prevSize": 32,
           "code": 59732,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 433,
@@ -687,7 +672,7 @@
           "name": "url",
           "prevSize": 32,
           "code": 59733,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 434,
@@ -695,7 +680,7 @@
           "name": "user-outline",
           "prevSize": 32,
           "code": 59734,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 435,
@@ -703,7 +688,7 @@
           "name": "user",
           "prevSize": 32,
           "code": 59735,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 436,
@@ -711,7 +696,7 @@
           "name": "vcard",
           "prevSize": 32,
           "code": 59736,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 437,
@@ -719,7 +704,7 @@
           "name": "whatsapp",
           "prevSize": 32,
           "code": 59737,
-          "tempChar": ""
+          "tempChar": ""
         },
         {
           "order": 438,
@@ -727,7 +712,7 @@
           "name": "wifi",
           "prevSize": 32,
           "code": 59738,
-          "tempChar": ""
+          "tempChar": ""
         }
       ],
       "id": 0,
@@ -2257,37 +2242,6 @@
             "109157911126199123115617018411691959611963914120410411012342342341251180701341431151668410218181811": [
               {
                 "f": 1
-              }
-            ]
-          }
-        },
-        {
-          "id": 26,
-          "paths": [
-            "M512 0c282.77 0 512 229.23 512 512s-229.23 512-512 512c-282.77 0-512-229.23-512-512s229.23-512 512-512z",
-            "M709.632 322.304c4.061 4.082 6.571 9.709 6.571 15.923 0 6.265-2.551 11.934-6.672 16.024l-159.95 158.465 159.949 158.413c4.134 4.096 6.694 9.775 6.694 16.051 0 12.477-10.115 22.591-22.591 22.591-6.2 0-11.817-2.498-15.899-6.542l0.002 0.002-160.256-158.72-160.256 158.72c-4.111 4.248-9.864 6.886-16.234 6.886-12.47 0-22.579-10.109-22.579-22.579 0-6.459 2.712-12.284 7.059-16.399l0.010-0.010 159.898-158.464-159.949-158.362c-4.134-4.096-6.694-9.775-6.694-16.051 0-12.477 10.115-22.591 22.591-22.591 6.2 0 11.817 2.498 15.899 6.542l-0.002-0.002 160.256 158.72 160.256-158.72c4.079-4.045 9.696-6.545 15.898-6.545 6.278 0 11.957 2.562 16.049 6.697l0.002 0.002z"
-          ],
-          "attrs": [
-            {
-              "fill": "rgb(234, 234, 234)"
-            },
-            {
-              "fill": "rgb(81, 81, 81)"
-            }
-          ],
-          "isMulticolor": true,
-          "isMulticolor2": false,
-          "grid": 0,
-          "tags": [
-            "null"
-          ],
-          "colorPermutations": {
-            "109157911126199123115617018411691959611963914120410411012342342341251180701341431151668410218181811": [
-              {
-                "f": 10
-              },
-              {
-                "f": 0
               }
             ]
           }
