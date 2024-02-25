@@ -10,7 +10,7 @@ Similarly to libraries such as FontAwesome, this icon font can be used on any we
 <link rel="stylesheet" href="//cdn.statically.io/gh/dev-gian/tlg-icons/main/style.css" />
 ```
 ```html
-<i class="tlgi-chevron-right" />
+<i class="tlgi-chevron-right"></i>
 ```
 If you prefer to host it on your server (keep the repo private), upload the following into your server:
   * `fonts/`
