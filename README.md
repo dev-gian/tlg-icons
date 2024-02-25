@@ -1,16 +1,22 @@
 # TLG Icons
 
+[DEMO](https://dev-gian.github.io/tlg-icons/demo) --
 Similarly to libraries such as FontAwesome, this icon font can be used on any web-based project. It supports a duotone style, as seen in icons such as `alert` and `danger`.
 
 ## How to use the font?
 
-* Upload the following to your server:
-  * `font/`
-  * `style.css`
-* Embed the CSS file in the `<head>` tag.
-* Add your icon: `<i class="tlgi-chevron-right" />`
 
-*For an extensive list of all the icons available, check out the demo.*
+```html
+<link rel="stylesheet" href="//cdn.statically.io/gh/dev-gian/tlg-icons/main/style.css" />
+```
+```html
+<i class="tlgi-chevron-right" />
+```
+If you prefer to host it on your server (keep the repo private), upload the following into your server:
+  * `fonts/`
+  * `style.css`
+
+*For an extensive list of all the icons available, [check out the demo](https://dev-gian.github.io/tlg-icons/demo).*
 
 ## How to add a new icon to the set?
 
@@ -50,7 +56,7 @@ It's a free, online solution, which is very accessible and easy to use. It remov
 Yes. It makes sure the syntax remains clean and bug-free. It also handles duo-tone icons. 
 
 ### Can I change the icons color?
-Yes. Changing the `color` property of any icon will do the trick. This also works for duotone icons. Speaking of which, you can also specify a different color by altering either the `:before` or `:after` pseudo-elements.
+Yes. Changing the `color` property of any icon or parent will do the trick. This also works for duotone icons. Speaking of which, you can also specify a different color and opacity by altering either the `:before` or `:after` pseudo-elements.
 
 ### There is an unexpected bug, what can I do?
 Feel free to drop a line at hello@ggdesign.it
