@@ -1,6 +1,6 @@
 # TLG Icons
 
-[DEMO](https://dev-gian.github.io/tlg-icons/demo) --
+<a href="https://dev-gian.github.io/tlg-icons/demo" target="_blank">DEMO</a> --
 Similarly to libraries such as FontAwesome, this icon font can be used on any web-based project. It supports a duotone style, as seen in icons such as `alert` and `danger`.
 
 ## How to use the font?
@@ -16,7 +16,7 @@ If you prefer to host it on your server (keep the repo private), upload the foll
   * `fonts/`
   * `style.css`
 
-*For an extensive list of all the icons available, [check out the demo](https://dev-gian.github.io/tlg-icons/demo).*
+*For an extensive list of all the icons available, <a href="https://dev-gian.github.io/tlg-icons/demo" target="_blank">check out the demo</a>.*
 
 ## How to add a new icon to the set?
 
